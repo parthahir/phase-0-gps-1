@@ -1,0 +1,5 @@
+1. Before the GPS session, I was very confused as to what function git pull had. However, I learned that git pull does a git fetch followed by a git merge, proving to be very fucntional and time saving. 
+2. During the GPS, our guide was very helpful in helping us trying to pull and push our files. He reminded us to git add and git commit as those are crucial steps that must be taken in order to push saved files. 
+3. I asked both my pair and our guide how they were doing, where they were from, and general questions and comments about the assignments that have been given so far. Before starting to code, I asked my pair if he was tired since he was from chicago, how he liked to wrok, and what his definition of a driver or navigator was. I asked my guide about his experience at DEV bootcamp and his current job.
+4. As of now, all my questions were answered by our guide, so at the moment I do not have any confusing matters. I know this may change.
+5. My first experience of pariing in a GPS was absolutly wonderful. I had a great time and learned alot. I'm glad I was able to work on my communication and coding skills with other like-minded individuals. 
